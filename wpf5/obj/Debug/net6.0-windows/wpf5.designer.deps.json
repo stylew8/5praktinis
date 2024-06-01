@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CsvHelper/32.0.3": {
+        "runtime": {
+          "lib/net6.0/CsvHelper.dll": {
+            "assemblyVersion": "32.0.0.0",
+            "fileVersion": "32.0.3.22"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CsvHelper/32.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JNDkd4Wc2Tim5IuyL8Ai13RhzRvaHItseEvlJ2YRkx2SMBFrIsW8a5+/o4/O1jsb6mlviihR6Hfyn+nqY6CurA==",
+      "path": "csvhelper/32.0.3",
+      "hashPath": "csvhelper.32.0.3.nupkg.sha512"
+    }
+  }
+}

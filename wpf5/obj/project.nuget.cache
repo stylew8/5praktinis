@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cqm7+V7a7WpTU6gdiC9ZBI7M+r7Y8BjHtHz628iPAdPAgCnSqVTrQNmltEnZWqg8awqHaDknx5ZORMAcsvWYLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vania\\Desktop\\5praktinis\\wpf5\\wpf5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vania\\.nuget\\packages\\csvhelper\\32.0.3\\csvhelper.32.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
