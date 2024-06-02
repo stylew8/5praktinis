@@ -228,7 +228,7 @@ namespace wpf5
             }
             else
             {
-                MessageBox.Show("No password found with the given title.");
+                //MessageBox.Show("No password found with the given title.");
                 PasswordGrid.ItemsSource = null;
             }
         }

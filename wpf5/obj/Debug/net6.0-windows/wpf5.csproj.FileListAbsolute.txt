@@ -47,3 +47,4 @@ C:\Users\vania\Desktop\5praktinis\wpf5\obj\Debug\net6.0-windows\wpf5.csproj.Core
 C:\Users\vania\Desktop\5praktinis\wpf5\obj\Debug\net6.0-windows\wpf5.csproj.CopyComplete
 C:\Users\vania\Desktop\5praktinis\wpf5\obj\Debug\net6.0-windows\wpf5.genruntimeconfig.cache
 C:\Users\vania\Desktop\5praktinis\wpf5\obj\Debug\net6.0-windows\ref\wpf5.dll
+C:\Users\vania\Desktop\5praktinis\wpf5\obj\Debug\net6.0-windows\wpf5.sourcelink.json
